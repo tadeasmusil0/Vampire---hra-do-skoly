@@ -8,10 +8,10 @@ Cílem hráče je přežít co nejdéle proti neustále přibývajícím nepřá
 - **Tadeáš Musil**
 
 ## Technologie
-- **Engine:** Godot 4.x  
+- **Engine:** Godot 4.5  
 - **Jazyk:** GDScript  
 - **Platforma:** PC  
-- **Grafika:** pixel art (vlastní nebo volně dostupné assety)
+- **Grafika:** pixel art 
 
 ## Struktura dokumentace
 - [`01_zakladni_koncepce.md`](01_zakladni_koncepce.md) – Základní myšlenka a koncept hry  
@@ -27,5 +27,5 @@ Cílem hráče je přežít co nejdéle proti neustále přibývajícím nepřá
 
 ## Instalace a spuštění
 1. Stáhni nebo naklonuj repozitář.  
-2. Otevři projekt v **Godot Engine 4.x**.  
+2. Otevři projekt v **Godot Engine 4.5**.  
 3. Spusť hlavní scénu `Main.tscn`.
