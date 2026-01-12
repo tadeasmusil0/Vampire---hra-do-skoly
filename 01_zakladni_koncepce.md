@@ -31,7 +31,7 @@ Hra je inspirována titulem **Vampire Survivors** – minimalistickou survival h
 - Cílová skupina: studenti, začínající vývojáři, hráči casual her.
 
 ## 🧰 Použité nástroje
-- **Godot 4.x**
+- **Godot 4.5**
 - **GDScript**
 - **LibreSprite / Aseprite** (grafika)
 - **Audacity / Bfxr** (zvuky)
